@@ -27,7 +27,17 @@ The password is considered strong if it meets all of the following criteria:
 
 ## ▶ How to Run
 Run the script in your terminal:
+bash
+python password_checker.py
 
+Enter a password when prompted. 
+Example:
+
+   Enter your password: 
+   Password is strong enough, storing...
+   Stored (hashed) passwords: ['5e884898da28047151d0e56f8dc6292773603d0d6aabbddc8b5...']
+
+      ⚠ Note: Hidden input works only in terminal/command prompt. Some IDE consoles (like PyCharm Run) may show typed characters.
 
 
 🛡️ Security Notes
