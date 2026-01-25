@@ -34,5 +34,5 @@ Bachelor’s in Cybersecurity — *Graduating in 2027*
 ---
 
 ## 📫 Contact
-LinkedIn: *your link here*  
-GitHub: *your profile*
+LinkedIn: https://www.linkedin.com/in/ahmad-bussti-7bb574359/  
+GitHub: https://github.com/abussti
